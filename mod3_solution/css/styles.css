@@ -1,0 +1,36 @@
+#header-nav {
+  background-color: #aaa;
+}
+
+.navbar-brand span {
+  font-size: 28px;
+  font-weight: bold;
+  color: #000;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+#nav-list li {
+  text-align: center;
+  background-color: #ccc;
+}
+
+.page-header {
+  text-align: center;
+}
+
+#text-content {
+  background-color: #aaa;
+}
+
+.section-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
